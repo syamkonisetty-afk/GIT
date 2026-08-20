@@ -1,0 +1,624 @@
+DEBUG:
+  SYAM:
+    TM:
+      ip: "10.123.213.85:1"
+    TB:
+      ip: "10.123.213.86:1"
+
+IOS:
+  TL1 [4387C3 // 4378B3]:
+    TM1:
+      ip: "10.123.213.104:1"
+    TB1:
+      ip: "10.123.213.175:1"
+      owner: "Kalyani"
+      LAB: "1C"
+      RACK: "N/A"
+      BOX: "2186"
+    TM2:
+      ip: "10.123.213.103:1"
+    TB2:
+      ip: "10.123.213.102:1"
+      owner: "Sravani"
+      LAB: "1C"
+      RACK: "N/A"
+      BOX: "2361"
+    TM3:
+      ip: "10.123.213.56:1"
+    TB3:
+      ip: "10.123.213.55:1"
+      owner: "Syam"
+      LAB: "1C"
+      RACK: "N/A"
+      BOX: "2373"
+    TM4:
+      ip: "10.123.213.131:1"
+    TB4:
+      ip: "10.123.213.44:1"
+      owner: "Anand"
+      LAB: "1C"
+      RACK: "N/A"
+      BOX: "2372"
+    TM5:
+      ip: "10.123.213.142:1"
+    TB5:
+      ip: "10.123.213.82:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "1C"
+      RACK: "N/A"
+      BOX: "LSIB031166"
+    TM6:
+      ip: "10.123.213.250:1"
+    TB6:
+      ip: "10.123.213.252:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "1C"
+      RACK: "N/A"
+      BOX: "1798"
+
+  TL2 [4387C2 // 4388C0]:
+    TM1:
+      ip: "10.123.213.124:1"
+    TB1:
+      ip: "10.123.213.68:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "1C"
+      RACK: "22"
+      BOX: "LSIB032779"
+    TM2:
+      ip: "10.123.213.109:1"
+    TB2:
+      ip: "10.123.213.110:1"
+      owner: "Sravani"
+      LAB: "1C"
+      RACK: "20"
+      BOX: "2552"
+    TM3:
+      ip: "10.123.213.112:1"
+    TB3:
+      ip: "10.123.213.111:1"
+      owner: "Syam"
+      LAB: "1C"
+      RACK: "25"
+      BOX: "2552"
+    TM4:
+      ip: "10.123.213.114:1"
+    TB4:
+      ip: "10.123.213.113:1"
+      owner: "Kalyani"
+      LAB: "1C"
+      RACK: "25"
+      BOX: "2549"
+    TM5:
+      ip: "10.123.213.115:1"
+    TB5:
+      ip: "10.123.213.116:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "1C"
+      RACK: "20"
+      BOX: "2574"
+    TM6:
+      ip: "10.123.213.117:1"
+    TB6:
+      ip: "10.123.213.118:1"
+      owner: "Ganeswari"
+      LAB: "1C"
+      RACK: "25"
+      BOX: "2544"
+
+  TL3 [4399C2]:
+    TM1:
+      ip: "10.123.213.223:1"
+    TB1:
+      ip: "10.123.213.224:1"
+      owner: "Kalyani"
+      LAB: "1C"
+      RACK: "07"
+      BOX: "LSIB030346"
+    TM2:
+      ip: "10.123.213.229:1"
+    TB2:
+      ip: "10.123.213.230:1"
+      owner: "Ganeswari"
+      LAB: "1C"
+      RACK: "07"
+      BOX: "LSIB030350"
+    TM3:
+      ip: "10.123.213.238:1"
+    TB3:
+      ip: "10.123.213.239:1"
+      owner: "Syam"
+      LAB: "1C"
+      RACK: "06"
+      BOX: "LSIB030355"
+    TM4:
+      ip: "10.123.213.241:1"
+    TB4:
+      ip: "10.123.213.247:1"
+      owner: "Anand"
+      LAB: "1C"
+      RACK: "08"
+      BOX: "LSIB030345"
+    TM5:
+      ip: "10.123.213.154:1"
+    TB5:
+      ip: "10.123.213.155:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "1C"
+      RACK: "05"
+      BOX: "LSIB029927"
+    TM6:
+      ip: "10.123.213.163:1"
+    TB6:
+      ip: "10.123.213.164:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "1C"
+      RACK: "07"
+      BOX: "LSIB030352"
+
+  ENG [ALL]:
+    1TM:
+      ip: "10.123.213.216:1"
+    1TB:
+      ip: "10.123.213.177:1"
+      owner: "Ganeswari"
+      LAB: "1C"
+      RACK: "02"
+      BOX: "Top Box"
+    2TM:
+      ip: "10.123.213.215:1"
+    2TB:
+      ip: "10.123.213.93:1"
+      owner: "Anand"
+      LAB: "1C"
+      RACK: "08"
+      BOX: "LSIB030356 (32783)"
+    3TM:
+      ip: "10.123.213.35:1"
+    3TB:
+      ip: "10.123.213.38:1"
+      owner: "Kalyani"
+      LAB: "1C"
+      RACK: "03"
+      BOX: "LSIB029928 (3226)"
+    4TM:
+      ip: "10.123.214.111:1"
+    4TB:
+      ip: "10.123.214.112:1"
+      owner: "Anand"
+      LAB: "1C"
+      RACK: "06"
+      BOX: "LSIB032781 (3328)"
+    5TM:
+      ip: "10.123.214.157:1"
+    5TB:
+      ip: "10.123.214.158:1"
+      owner: "Sravani"
+      LAB: "1C"
+      RACK: "22"
+      BOX: "LSIB032776"
+    6TM:
+      ip: "10.123.214.236:1"
+    6TB:
+      ip: "10.123.214.237:1"
+      owner: "Kalyani"
+      LAB: "1C"
+      RACK: "18"
+      BOX: "2324803871"
+    7TM:
+      ip: "10.123.214.241:1"
+    7TB:
+      ip: "10.123.214.242:1"
+      owner: "Ganeswari"
+      LAB: "1C"
+      RACK: "21"
+      BOX: "2324B03867"
+    8TM:
+      ip: "10.123.214.226:1"
+    8TB:
+      ip: "10.123.214.227:1"
+      owner: "Ashok"
+      LAB: "GC"
+      RACK: "157"
+      BOX: "5171"
+
+  BT_SYNC [ALL]:
+    1TM:
+      ip: "10.123.214.166:1"
+    1TB:
+      ip: "10.123.214.167:1"
+      owner: "Ganeswari"
+      LAB: "GC"
+      RACK: "90"
+      BOX: "BCMB000734"
+    2TM:
+      ip: "10.123.213.13:1"
+    2TB:
+      ip: "10.123.213.22:1"
+      owner: "Sravani"
+      LAB: "GC"
+      RACK: "135"
+      BOX: "BCMB005412"
+    3TM:
+      ip: "10.123.214.190:1"
+    3TB:
+      ip: "10.123.214.191:1"
+      owner: "Anand"
+      LAB: "GC"
+      RACK: "135"
+      BOX: "BCMB009395"
+    4TM:
+      ip: "10.123.213.134:1"
+    4TB:
+      ip: "10.123.213.133:1"
+      owner: "Kalyani"
+      LAB: "GC"
+      RACK: "136"
+      BOX: "BCMB006246"
+    5TM:
+      ip: "10.123.214.80:1"
+    5TB:
+      ip: "10.123.214.81:1"
+      owner: "Ganeswari"
+      LAB: "GC"
+      RACK: "136"
+      BOX: ""
+
+MACOS:
+  TL1 [4378B1 // 4378B3 // 4388C0]:
+    TM1:
+      ip: "10.123.214.116:1"
+    TB1:
+      ip: "10.123.214.40:1"
+      owner: "Kalyani"
+      LAB: "GC"
+      RACK: "128"
+      BOX: "BCMB004196 (1644)"
+    TM2:
+      ip: "10.123.214.30:1"
+    TB2:
+      ip: "10.123.214.29:1"
+      owner: ""
+      LAB: "GC"
+      RACK: "128"
+      BOX: "2369"
+    TM3:
+      ip: "10.123.214.38:1"
+    TB3:
+      ip: "10.123.214.36:1"
+      owner: "Syam"
+      LAB: "GC"
+      RACK: "128"
+      BOX: "IN000424 (1863)"
+    TM4:
+      ip: "10.123.214.5:1"
+    TB4:
+      ip: "10.123.214.4:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "GC"
+      RACK: "127"
+      BOX: "BCMB007088 (2370)"
+    TM5:
+      ip: "10.123.214.31:1"
+    TB5:
+      ip: "10.123.214.39:1"
+      owner: "Ganeswari"
+      LAB: "GC"
+      RACK: "127"
+      BOX: "SJ011045 (1601)"
+    TM6:
+      ip: "10.123.214.123:1"
+    TB6:
+      ip: "10.123.214.50:1"
+      owner: ""
+      LAB: "GC"
+      RACK: "127"
+      BOX: "BCMB004197 (1936)"
+
+  TL2 [4387C2 // 4388C2]:
+    TM1:
+      ip: "10.123.214.125:1"
+    TB1:
+      ip: "10.123.214.43:1"
+      owner: "Anand"
+      LAB: "GC"
+      RACK: "122"
+      BOX: "1012"
+    TM2:
+      ip: "10.123.214.130:1"
+    TB2:
+      ip: "10.123.214.10:1"
+      owner: "Syam"
+      LAB: "GC"
+      RACK: "122"
+      BOX: "2547"
+    TM3:
+      ip: "10.123.214.126:1"
+    TB3:
+      ip: "10.123.214.42:1"
+      owner: "Ganeswari"
+      LAB: "GC"
+      RACK: "122"
+      BOX: "1646"
+    TM4:
+      ip: "10.123.214.128:1"
+    TB4:
+      ip: "10.123.214.129:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "1C"
+      RACK: "NEW-RACK-TOP"
+      BOX: "BCMB007373"
+    TM5:
+      ip: "10.123.214.124:1"
+    TB5:
+      ip: "10.123.214.58:1"
+      owner: "Sravani"
+      LAB: "1C"
+      RACK: "NEW-RACK-BOTTOM"
+      BOX: "2188"
+    TM7:
+      ip: "10.123.214.6:1"
+    TB7:
+      ip: "10.123.214.3:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "1C"
+      RACK: "NEW-RACK-MIDDLE"
+      BOX: "2099"
+
+  TL3 [43102]:
+    TM2:
+      ip: "10.123.213.232:1"
+    TB2:
+      ip: "10.123.213.233:1"
+      owner: "Anand"
+      LAB: "1C"
+      RACK: "06"
+      BOX: "LSIB030351 (3254)"
+    TM3:
+      ip: "10.123.214.53:1"
+    TB3:
+      ip: "10.123.214.56:1"
+      owner: "Kalyani"
+      LAB: "1C"
+      RACK: "08"
+      BOX: "LSIB030344 (3257)"
+    TM4:
+      ip: "10.123.213.226:1"
+    TB4:
+      ip: "10.123.213.227:1"
+      owner: "Sravani"
+      LAB: "1C"
+      RACK: "07"
+      BOX: "LSIB030349 (3264)"
+    TM5:
+      ip: "10.123.213.173:1"
+    TB5:
+      ip: "10.123.213.176:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "1C"
+      RACK: "05"
+      BOX: "LSIB029935 (2021)"
+    TM6:
+      ip: "10.123.214.8:1"
+    TB6:
+      ip: "10.123.214.84:1"
+      owner: "Respect to Eng Release Engineer"
+      LAB: "1C - New middle rack"
+      RACK: ""
+      BOX: "BCMB004470 (2553)"
+    TM7:
+      ip: "10.123.214.135:1"
+    TB7:
+      ip: "10.123.214.136:1"
+      owner: "Syam"
+      LAB: "1C"
+      RACK: "09"
+      BOX: "LSIB032782 (3327)"
+  TL4 [43110]:
+    TM1:
+      ip: "10.123.213.73:1"
+      hostname: "TL4TM1MACOS"
+      hw_type: "SkyLke"
+    TB1:
+      ip: "10.123.213.91:1"
+      hostname: "TL4TB1MACOS"
+      hw_type: "WhsLke"
+      ram_size: 4
+      owner: "Syam"
+      wps_ip: "10.123.213.99"
+      pearle_ip: "10.123.214.34"
+      vnx_id: "11231"
+      LAB: "GC"
+    TM2:
+      ip: "10.123.213.101:1"
+      hostname: "TL4TM2MACOS"
+      hw_type: "SkyLke"
+    TB2:
+      ip: "10.123.213.153:1"
+      hostname: "TL4TB2MACOS"
+      hw_type: "WhsLke"
+      ram_size: 4
+      owner: "Ganeswari"
+      wps_ip: "10.123.213.174"
+      pearle_ip: "10.123.214.27"
+      vnx_id: "1792"
+      LAB: "GC"
+    TM3:
+      ip: "10.123.213.212:1"
+      hostname: "TL4TM3MACOS"
+      hw_type: "SkyLke"
+    TB3:
+      ip: "10.123.213.243:1"
+      hostname: "TL4TB3MACOS"
+      hw_type: "WhsLke"
+      ram_size: 16
+      owner: "Kalyani"
+      wps_ip: "10.123.214.9"
+      pearle_ip: "10.123.214.142"
+      vnx_id: "1788"
+      LAB: "GC"
+    TM4:
+      ip: "10.123.214.45:1"
+      hostname: "TL4TM4MACOS"
+      hw_type: "SkyLke"
+    TB4:
+      ip: "10.123.214.54:1"
+      hostname: "TL4TB4MACOS"
+      hw_type: "WhsLke"
+      ram_size: 8
+      owner: "Anand"
+      wps_ip: "10.123.214.57"
+      pearle_ip: "10.123.214.229"
+      vnx_id: "1740"
+      LAB: "GC"
+    TM5:
+      ip: "10.123.213.1:1"
+      hostname: "TL4TM5MACOS"
+      hw_type: "WhsLke"
+    TB5:
+      ip: "10.123.214.113:1"
+      hostname: "TL4TB5MACOS"
+      hw_type: "SkyLke"
+      ram_size: 8
+      owner: ""
+      wps_ip: "10.123.214.114"
+      vaunix_8_port_ip: "10.123.214.234"
+      vaunix_4_port_ip: "10.123.214.213"
+      LAB: "GC"
+
+  ENG [ALL]:
+    1TM:
+      ip: "10.123.214.20:1"
+    1TB:
+      ip: "10.123.214.19:1"
+      owner: "Sravani"
+      LAB: "1C"
+      RACK: "NEW RACK"
+      BOX: "iBT_47"
+    2TM:
+      ip: "10.123.213.40:1"
+    2TB:
+      ip: "10.123.213.41:1"
+      owner: "Syam"
+      LAB: "1C"
+      RACK: "03"
+      BOX: "LSIB029931 (3236)"
+    3TM:
+      ip: "10.123.214.121:1"
+    3TB:
+      ip: "10.123.214.122:1"
+      owner: "Syam"
+      LAB: "1C"
+      RACK: "21"
+      BOX: "BCMB001298"
+    4TM:
+      ip: "10.123.213.61:1"
+    4TB:
+      ip: "10.123.213.62:1"
+      owner: "Abisheak"
+      LAB: "1C"
+      RACK: "02"
+      BOX: "3235"
+    5TM:
+      ip: "10.123.214.231:1"
+    5TB:
+      ip: "10.123.214.232:1"
+      owner: "Karthik"
+      LAB: "1C"
+      RACK: "18"
+      BOX: "3630"
+    6TM:
+      ip: "10.123.214.164:1"
+    6TB:
+      ip: "10.123.214.224:1"
+      owner: ""
+      LAB: "GC"
+      RACK: "151"
+      BOX: ""
+
+TAPE_OUT:
+  43102:
+    TM1:
+      ip: "10.123.214.78:1"
+    TB1:
+      ip: "10.123.214.79:1"
+      owner: "Anand/Jayachandran"
+      LAB: "GC"
+      RACK: "124/126"
+      BOX: "BCMB006877"
+    TM2:
+      ip: "10.123.214.137:1"
+    TB2:
+      ip: "10.123.214.138:1"
+      owner: "Kalyani/Ganeswari"
+      LAB: "GC"
+      RACK: "124/126"
+      BOX: "BCMB007311"
+    TM3:
+      ip: "10.123.213.162:1"
+    TB3:
+      ip: "10.123.213.161:1"
+      owner: "Sravani/Syam"
+      LAB: "GC"
+      RACK: "124"
+      BOX: "BCMB007315"
+
+  43110:
+    TM1:
+      ip: "10.123.213.194:1"
+    TB1:
+      ip: "10.123.213.193:1"
+      owner: "Anand/Jayachandran"
+      LAB: "GC"
+      RACK: "135"
+      BOX: "BCMB006245"
+    TM2:
+      ip: "10.123.213.196:1"
+    TB2:
+      ip: "10.123.213.195:1"
+      owner: "Kalyani/Ganeswari"
+      LAB: "GC"
+      RACK: "126"
+      BOX: "BCMB006879"
+    TM3:
+      ip: "10.123.213.198:1"
+    TB3:
+      ip: "10.123.213.197:1"
+      owner: "Sravani/Syam"
+      LAB: "GC"
+      RACK: "129"
+      BOX: "(Bottom Box)"
+
+  43109:
+    TM1:
+      ip: "10.123.213.43:1"
+    TB1:
+      ip: "10.123.213.53:1"
+      owner: "Anand/Jayachandran"
+      LAB: "GC"
+      RACK: "146"
+      BOX: "129(ios-224)"
+    TM2:
+      ip: "10.123.213.66:1"
+    TB2:
+      ip: "10.123.213.65:1"
+      owner: "Kalyani/Ganeswari"
+      LAB: "GC"
+      RACK: "146"
+      BOX: "100000041590"
+    TM3:
+      ip: "10.123.213.188:1"
+    TB3:
+      ip: "10.123.213.187:1"
+      owner: "Sravani/Syam"
+      LAB: "GC"
+      RACK: "146"
+      BOX: "100000041586"
+    TM4:
+      ip: "10.123.213.126:1"
+    TB4:
+      ip: "10.123.213.125:1"
+      owner: ""
+      LAB: ""
+      RACK: ""
+      BOX: ""
